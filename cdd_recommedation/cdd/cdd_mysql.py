@@ -14,7 +14,7 @@ connectConfiguration = {
     "port": 3306,
     "user": "root",
     "passwd": "123456",
-    "db": "test",
+    "db": "cdd_dev",
     "charset": "utf8"
 }
 

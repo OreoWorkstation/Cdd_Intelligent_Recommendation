@@ -20,6 +20,7 @@ def load_data():
         # print("%s %s %s" % (user, article, rating))
         user_list.setdefault(user, {})
         user_list[user][article] = float(rating)
+    print(user_list)
 
 # 计算欧几里得距离
 # user_diff[user_i][article_j] = diff => difference between user_i & user_id on article_j

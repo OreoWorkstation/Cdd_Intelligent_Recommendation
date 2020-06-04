@@ -17,7 +17,7 @@ def itemBasedRecommend():
     for id, content in dataList:
         analyzer.addDocument(id, content)
 
-    type_num = 8
+    type_num = 6
     result = analyzer.kmeans(type_num)
     print(result)
     for i in range(type_num):
