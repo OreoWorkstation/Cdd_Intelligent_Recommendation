@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be3d87fa-4eaa-4d3d-8365-9cb5be1e5db1" name="Default Changelist" comment="" />
+    <list default="true" id="be3d87fa-4eaa-4d3d-8365-9cb5be1e5db1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdd/ItemBasedCollaborativeFiltering.py" beforeDir="false" afterPath="$PROJECT_DIR$/cdd/ItemBasedCollaborativeFiltering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdd/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cdd/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdd/cdd_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/cdd/cdd_mysql.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1co7urvyofrI2A83vJeRGCjXSKU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,7 +36,7 @@
       <recent name="D:\360MoveData\Users\38004\Desktop\cdd_recommedation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ItemBasedCollaborativeFiltering">
+  <component name="RunManager" selected="Python.__init__">
     <configuration name="ItemBasedCollaborativeFiltering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cdd_recommedation" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,9 +102,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.__init__" />
         <item itemvalue="Python.ItemBasedCollaborativeFiltering" />
         <item itemvalue="Python.cdd_mysql" />
-        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -111,21 +122,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="265" key="GridCell.Tab.0.bottom" timestamp="1591185527465">
+    <state width="1515" height="170" key="GridCell.Tab.0.bottom" timestamp="1591280149883">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591185527465" />
-    <state width="1515" height="265" key="GridCell.Tab.0.center" timestamp="1591185527464">
+    <state width="1515" height="170" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591280149883" />
+    <state width="1515" height="170" key="GridCell.Tab.0.center" timestamp="1591280149883">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591185527464" />
-    <state width="1515" height="265" key="GridCell.Tab.0.left" timestamp="1591185527464">
+    <state width="1515" height="170" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591280149883" />
+    <state width="1515" height="170" key="GridCell.Tab.0.left" timestamp="1591280149882">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591185527464" />
-    <state width="1515" height="265" key="GridCell.Tab.0.right" timestamp="1591185527464">
+    <state width="1515" height="170" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591280149882" />
+    <state width="1515" height="170" key="GridCell.Tab.0.right" timestamp="1591280149883">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591185527464" />
+    <state width="1515" height="170" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591280149883" />
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1591276152251">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1591276152251" />
   </component>
 </project>
